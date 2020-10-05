@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ms314006/hello-world-for-practice-circle-ci/issues"
   },
-  "homepage": "https://github.com/ms314006/hello-world-for-practice-circle-ci#readme"
+  "homepage": "https://github.com/ms314006/hello-world-for-practice-circle-ci#readme",
+  "devDependencies": {
+    "jest": "^26.5.0"
+  }
 }
